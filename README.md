@@ -1,2 +1,2 @@
 # SpaceKadet
-A game about a Space Kat, coded in C#
+A game about a Space Cat
