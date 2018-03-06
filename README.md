@@ -1,2 +1,2 @@
 # SpaceKadet
-A game about a Space Cat
+A game about a Space Person
